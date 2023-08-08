@@ -1,0 +1,368 @@
+{
+    "chat": {
+        "csat": {
+            "graphicName": "Customer Satisfaction",
+            "average90Days": NaN,
+            "data": [
+                {
+                    "date": "2023-06-16",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-06-15",
+                    "avg_csat": 4.8947368421
+                },
+                {
+                    "date": "2023-06-14",
+                    "avg_csat": 4.92
+                },
+                {
+                    "date": "2023-06-13",
+                    "avg_csat": 4.85
+                },
+                {
+                    "date": "2023-06-09",
+                    "avg_csat": 4.8181818182
+                },
+                {
+                    "date": "2023-06-08",
+                    "avg_csat": 4.8125
+                },
+                {
+                    "date": "2023-06-07",
+                    "avg_csat": 4.9230769231
+                },
+                {
+                    "date": "2023-06-06",
+                    "avg_csat": 4.875
+                },
+                {
+                    "date": "2023-06-05",
+                    "avg_csat": 4.85
+                },
+                {
+                    "date": "2023-06-02",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-06-01",
+                    "avg_csat": 4.8461538462
+                },
+                {
+                    "date": "2023-05-31",
+                    "avg_csat": 4.4615384615
+                },
+                {
+                    "date": "2023-05-30",
+                    "avg_csat": 4.8461538462
+                },
+                {
+                    "date": "2023-05-29",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-26",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-25",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-24",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-23",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-19",
+                    "avg_csat": 4.875
+                },
+                {
+                    "date": "2023-05-18",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-17",
+                    "avg_csat": 4.75
+                },
+                {
+                    "date": "2023-05-16",
+                    "avg_csat": 4.7272727273
+                },
+                {
+                    "date": "2023-05-15",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-12",
+                    "avg_csat": 5.0
+                },
+                {
+                    "date": "2023-05-11",
+                    "avg_csat": 4.8333333333
+                }
+            ]
+        },
+        "responseTime": {
+            "graphicName": "Chat Response Time",
+            "average90Days": 38.56916206174429,
+            "data": [
+                {
+                    "date": "2023-06-20",
+                    "avg_responseTime_chat": 5.2222222222
+                },
+                {
+                    "date": "2023-06-16",
+                    "avg_responseTime_chat": 33.0
+                },
+                {
+                    "date": "2023-06-15",
+                    "avg_responseTime_chat": 55.6052631579
+                },
+                {
+                    "date": "2023-06-14",
+                    "avg_responseTime_chat": 35.0342465753
+                },
+                {
+                    "date": "2023-06-13",
+                    "avg_responseTime_chat": 55.7380952381
+                },
+                {
+                    "date": "2023-06-09",
+                    "avg_responseTime_chat": 48.9489795918
+                },
+                {
+                    "date": "2023-06-08",
+                    "avg_responseTime_chat": 29.359223301
+                },
+                {
+                    "date": "2023-06-07",
+                    "avg_responseTime_chat": 53.6949152542
+                },
+                {
+                    "date": "2023-06-06",
+                    "avg_responseTime_chat": 42.4791666667
+                },
+                {
+                    "date": "2023-06-05",
+                    "avg_responseTime_chat": 44.6578947368
+                },
+                {
+                    "date": "2023-06-02",
+                    "avg_responseTime_chat": 48.3928571429
+                },
+                {
+                    "date": "2023-06-01",
+                    "avg_responseTime_chat": 48.7244094488
+                },
+                {
+                    "date": "2023-05-31",
+                    "avg_responseTime_chat": 30.7804878049
+                },
+                {
+                    "date": "2023-05-30",
+                    "avg_responseTime_chat": 27.4779411765
+                },
+                {
+                    "date": "2023-05-29",
+                    "avg_responseTime_chat": 30.7071428571
+                },
+                {
+                    "date": "2023-05-26",
+                    "avg_responseTime_chat": 42.1848739496
+                },
+                {
+                    "date": "2023-05-25",
+                    "avg_responseTime_chat": 44.7304347826
+                },
+                {
+                    "date": "2023-05-24",
+                    "avg_responseTime_chat": 50.4647887324
+                },
+                {
+                    "date": "2023-05-23",
+                    "avg_responseTime_chat": 33.0519480519
+                },
+                {
+                    "date": "2023-05-19",
+                    "avg_responseTime_chat": 28.2769230769
+                },
+                {
+                    "date": "2023-05-18",
+                    "avg_responseTime_chat": 31.6153846154
+                },
+                {
+                    "date": "2023-05-17",
+                    "avg_responseTime_chat": 31.3882352941
+                },
+                {
+                    "date": "2023-05-16",
+                    "avg_responseTime_chat": 42.0947368421
+                },
+                {
+                    "date": "2023-05-15",
+                    "avg_responseTime_chat": 23.6767676768
+                },
+                {
+                    "date": "2023-05-12",
+                    "avg_responseTime_chat": 43.0784313725
+                },
+                {
+                    "date": "2023-05-11",
+                    "avg_responseTime_chat": 42.4128440367
+                }
+            ]
+        }
+    },
+    "email": {
+        "responseTime": {
+            "graphicName": "Email Response Time",
+            "average90Days": 1772.45652173913,
+            "data": [
+                {
+                    "date": "2023-06-28",
+                    "avg_responseTime_email": 0.0
+                },
+                {
+                    "date": "2023-06-26",
+                    "avg_responseTime_email": 81.0
+                },
+                {
+                    "date": "2023-06-22",
+                    "avg_responseTime_email": 1721.0
+                },
+                {
+                    "date": "2023-06-20",
+                    "avg_responseTime_email": 120.0
+                },
+                {
+                    "date": "2023-06-15",
+                    "avg_responseTime_email": 1444.6666666667
+                },
+                {
+                    "date": "2023-06-14",
+                    "avg_responseTime_email": 677.0
+                },
+                {
+                    "date": "2023-06-09",
+                    "avg_responseTime_email": 75.0
+                },
+                {
+                    "date": "2023-06-08",
+                    "avg_responseTime_email": 417.0
+                },
+                {
+                    "date": "2023-06-07",
+                    "avg_responseTime_email": 0.0
+                },
+                {
+                    "date": "2023-06-06",
+                    "avg_responseTime_email": 421.0
+                },
+                {
+                    "date": "2023-06-05",
+                    "avg_responseTime_email": 222.5
+                },
+                {
+                    "date": "2023-06-02",
+                    "avg_responseTime_email": 3578.25
+                },
+                {
+                    "date": "2023-05-31",
+                    "avg_responseTime_email": 605.0
+                },
+                {
+                    "date": "2023-05-30",
+                    "avg_responseTime_email": 1418.25
+                },
+                {
+                    "date": "2023-05-29",
+                    "avg_responseTime_email": 746.5
+                },
+                {
+                    "date": "2023-05-26",
+                    "avg_responseTime_email": 4965.6666666667
+                },
+                {
+                    "date": "2023-05-25",
+                    "avg_responseTime_email": 11364.5
+                },
+                {
+                    "date": "2023-05-24",
+                    "avg_responseTime_email": 2258.0
+                },
+                {
+                    "date": "2023-05-23",
+                    "avg_responseTime_email": 212.5
+                },
+                {
+                    "date": "2023-05-19",
+                    "avg_responseTime_email": 7398.0
+                },
+                {
+                    "date": "2023-05-17",
+                    "avg_responseTime_email": 2928.6666666667
+                },
+                {
+                    "date": "2023-05-16",
+                    "avg_responseTime_email": 0.0
+                },
+                {
+                    "date": "2023-05-15",
+                    "avg_responseTime_email": 112.0
+                }
+            ]
+        }
+    },
+    "call": {
+        "waitTime": {
+            "graphicName": "Call Wait Time",
+            "average90Days": 24.18333333333333,
+            "data": [
+                {
+                    "date": "2023-06-07",
+                    "avg_wait_time": 65.0
+                },
+                {
+                    "date": "2023-06-05",
+                    "avg_wait_time": 6.0
+                },
+                {
+                    "date": "2023-06-01",
+                    "avg_wait_time": 17.3333333333
+                },
+                {
+                    "date": "2023-05-30",
+                    "avg_wait_time": 44.5
+                },
+                {
+                    "date": "2023-05-29",
+                    "avg_wait_time": 20.0
+                },
+                {
+                    "date": "2023-05-26",
+                    "avg_wait_time": 5.5
+                },
+                {
+                    "date": "2023-05-23",
+                    "avg_wait_time": 5.0
+                },
+                {
+                    "date": "2023-05-19",
+                    "avg_wait_time": 6.0
+                },
+                {
+                    "date": "2023-05-18",
+                    "avg_wait_time": 65.5
+                },
+                {
+                    "date": "2023-05-12",
+                    "avg_wait_time": 7.0
+                }
+            ]
+        }
+    }
+}
